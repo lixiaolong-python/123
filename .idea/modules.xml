@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TCP.iml" filepath="$PROJECT_DIR$/.idea/TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tage_work/.idea/Tage_work.iml" filepath="$PROJECT_DIR$/../Tage_work/.idea/Tage_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auto_platform_often/.idea/auto_platform_often.iml" filepath="$PROJECT_DIR$/../auto_platform_often/.idea/auto_platform_often.iml" />
+      <module fileurl="file://D:/SVN/测试/平台测试/自动化/平台协议生成工具/.idea/平台协议生成工具.iml" filepath="D:/SVN/测试/平台测试/自动化/平台协议生成工具/.idea/平台协议生成工具.iml" />
+      <module fileurl="file://D:/SVN/测试/.idea/测试.iml" filepath="D:/SVN/测试/.idea/测试.iml" />
+    </modules>
+  </component>
+</project>
